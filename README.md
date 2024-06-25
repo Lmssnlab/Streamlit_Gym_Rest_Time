@@ -1,4 +1,4 @@
-
+[Lien de l'application](https://appgymresttime-rxcxbauiwjaoi3p9df5yrs.streamlit.app/)
 
 # Gym Rest Timer Application
 
@@ -26,3 +26,4 @@ streamlit run timerapp.py
 
 ## Contribution
 Les contributions à ce projet sont les bienvenues. Veuillez suivre les bonnes pratiques de développement et de contribution open-source.
+
